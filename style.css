@@ -1,0 +1,21 @@
+h1 {
+  float: right;
+  font-style: oblique;
+  margin-right: 5%;
+}
+
+.topnav a {
+      float: right;
+      color: black;
+      text-align: center;
+      margin-inline-end: 10%;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    .topnav a:hover {
+      color: cornflowerblue;
+    }
+    .topnav a.active {
+      color: cornflowerblue;
+    }
